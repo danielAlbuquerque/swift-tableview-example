@@ -14,7 +14,6 @@ class ViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
         signos.append("Libra")
         signos.append("Capricornio")
         
